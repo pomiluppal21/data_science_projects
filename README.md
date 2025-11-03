@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Business Analysis
 
 ## Project Overview
@@ -33,3 +34,6 @@ retail-business-analysis/
 1. Clone the repository
 2. Install required dependencies
 3. Run the Jupyter notebook in notebooks/ directory
+=======
+# data_science_projects
+>>>>>>> d85577be0b36669469c01dbf547dc433703b041c
